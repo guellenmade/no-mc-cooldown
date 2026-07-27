@@ -1,0 +1,6 @@
+name: NoCooldown
+version: '${project.version}'
+main: com.nocooldown.NoCooldown
+api-version: '1.21'
+description: Removes the attack cooldown from swords
+author: mailo
