@@ -1,6 +1,6 @@
-# NoCooldown - Minecraft Spigot Plugin
+# NoMcCooldown for Spigot
 
-A lightweight Spigot plugin that completely removes the attack cooldown from swords, allowing players to attack at full speed with maximum damage on every swing.
+A lightweight vibecoded Spigot plugin that completely removes the attack cooldown from swords, allowing players to attack at full speed with maximum damage on every swing.
 
 ## What This Plugin Does
 
@@ -98,7 +98,3 @@ The plugin automatically restores default attack speed values for all online pla
 | Mohist            | Likely    |
 
 Any server platform that implements the Bukkit/Spigot API should work.
-
-## License
-
-This project is free to use and modify.
